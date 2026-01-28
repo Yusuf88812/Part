@@ -1,0 +1,4 @@
+Pillow
+aiogram
+django
+whitenoise
